@@ -52,5 +52,4 @@ If you find a bug or have a feature request, please [open an issue](https://gith
 
 ## Community
 
-- **[GitHub Issues](https://github.com/scalar-labs/scalardb-mcp-server/issues):** Report bugs and request features.
 - **[ScalarDB Documentation](https://scalardb.scalar-labs.com/):** Learn more about ScalarDB.
