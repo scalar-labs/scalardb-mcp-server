@@ -6,7 +6,9 @@ ScalarDB MCP Server is a [Model Context Protocol (MCP)](https://modelcontextprot
 
 ScalarDB MCP Server works seamlessly whether you're using a single database or multiple databases. Unlike traditional approaches that require separate MCP servers for each database, ScalarDB MCP Server leverages the [multi-storage capabilities of ScalarDB](https://scalardb.scalar-labs.com/docs/latest/multi-storage-transactions) to provide unified access to heterogeneous databases (PostgreSQL, MySQL, Cosmos DB, DynamoDB, etc.) through a single MCP server. By simply submitting queries in natural language, the server automatically executes the appropriate operations across your databases, improving and accelerating decision-making processes.
 
-<img src="docs/images/architecture.png" alt="ScalarDB MCP Server Architecture" width="400">
+The following diagram shows how ScalarDB MCP Server differs from traditional approaches. Instead of requiring separate MCP servers for each database, you connect once to ScalarDB MCP Server to access all your databases through ScalarDB.
+
+<img src="docs/images/architecture.png" alt="ScalarDB MCP Server Architecture" width="800">
 
 ### Key features
 
