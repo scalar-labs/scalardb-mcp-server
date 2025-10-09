@@ -17,7 +17,7 @@ ScalarDB MCP Server works seamlessly whether you're using a single database or m
 
 ## Docs
 
-* **[Getting Started with ScalarDB MCP Server](https://scalardb.scalar-labs.com/docs/latest/scalardb-mcp-server/getting-started):** Installation and quickstart guide
+* **[Getting Started with ScalarDB MCP Server](https://scalardb.scalar-labs.com/docs/latest/scalardb-mcp-server/getting-started-with-scalardb-mcp-server):** Installation and quickstart guide
 * **[ScalarDB MCP Server Tools Reference](https://scalardb.scalar-labs.com/docs/latest/scalardb-mcp-server/tools-reference):** Complete documentation of all available MCP tools
 
 ## Quickstart
